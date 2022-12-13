@@ -1,0 +1,16 @@
+*.pyc
+__pycache__/
+/.vscode
+.ipynb_checkpoints/
+/log
+
+*.png
+*.jpg
+/datasets
+/dataset
+
+*.pt
+bin/
+
+/backup
+/experiment
